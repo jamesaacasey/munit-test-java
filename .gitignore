@@ -1,0 +1,4 @@
+.settings/org.eclipse.jdt.core.prefs
+.studio/caches/types_contents.xml
+target/classes/mule-app.properties
+target/mvn-eclipse-cache.properties
